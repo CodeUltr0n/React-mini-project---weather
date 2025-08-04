@@ -22,6 +22,10 @@ A clean and responsive weather application built using **React.js**. Enter a cit
 
 ---
 
+## 📸 Snapshots
+![weather-app](https://github.com/user-attachments/assets/486285b8-5281-45c2-b7d7-b0cc049a6edd)
+
+
 ## 🛠️ Tech Stack
 
 - **Frontend**: React.js (with hooks)
